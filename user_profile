@@ -1,0 +1,3 @@
+For this database system, users are the receptionists and service providers. 
+Receptionists will input the service providers information for each appointment the system received. Receptionists will add transactions to the system after appointment is finished. 
+Service providers can log in to the system to check and prepare for the upcoming appointments. They can change the appointment status. 
