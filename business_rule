@@ -1,0 +1,6 @@
+A customer can have many dogs. Each dog can only belong to one customer.
+A customer can have many appointments. Each appointment can only belong to one customer. 
+A provider can attend many appointments. Each appointment is attended only by one provider.
+A dog can participate in many appointments. Each appointment can only have one dog. 
+An appointment can deliver one service. Each service is delivered by one appointment. 
+An appointment can have one related transaction. Each transaction is made for one appointment. 
