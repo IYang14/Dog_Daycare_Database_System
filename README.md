@@ -1,1 +1,2 @@
 # Dog_Daycare_Database_System
+The purpose of the project is to build a database in supporting a local dog daycare center to keep track of the daily operation. The database will store information about the service providers, the customers, their dogs, the services, appointments, as well as records of the transactions customers made. It intends to optimize the operation and deliver better services. 
